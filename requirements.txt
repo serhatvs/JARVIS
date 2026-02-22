@@ -1,0 +1,3 @@
+# Gerekli temel kütüphaneler (örnek)
+speechrecognition
+pyttsx3
