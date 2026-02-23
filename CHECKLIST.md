@@ -21,16 +21,16 @@ Her gün yapılacak temel işler ve tarihli ilerleme takibi için kullanılır.
 ## Tarihli Günlük Takvim
 
 ### 22.02.2026
-- [ ] Proje dosya yapısının oluşturulması
-- [ ] Ana modüllerin temel şablonlarının yazılması
-- [ ] requirements.txt ve .gitignore dosyalarının eklenmesi
-- [ ] İlk dokümantasyonun tamamlanması
+- [x] Proje dosya yapısının oluşturulması
+- [x] Ana modüllerin temel şablonlarının yazılması
+- [x] requirements.txt ve .gitignore dosyalarının eklenmesi
+- [x] İlk dokümantasyonun tamamlanması
 
 ### 23.02.2026
-- [ ] agents.py dosyasında CodeAgent, SystemAgent, RiskAgent sınıf şablonlarının eklenmesi
-- [ ] planner.py dosyasında temel task tree yapısının oluşturulması
-- [ ] executor.py dosyasında risk-aware execution fonksiyonunun yazılması
-- [ ] Basit bir test senaryosu ile ana döngünün çalıştırılması
+- [x] agents.py dosyasında CodeAgent, SystemAgent, RiskAgent sınıf şablonlarının eklenmesi
+- [x] planner.py dosyasında temel task tree yapısının oluşturulması
+- [x] executor.py dosyasında risk-aware execution fonksiyonunun yazılması
+- [x] Basit bir test senaryosu ile ana döngünün çalıştırılması
 
 ### 24.02.2026
 - [ ] session.py dosyasında session memory yönetimi fonksiyonlarının eklenmesi
