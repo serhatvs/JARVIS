@@ -1,3 +1,4 @@
 # Gerekli temel kütüphaneler (örnek)
 speechrecognition
 pyttsx3
+llama-cpp-python

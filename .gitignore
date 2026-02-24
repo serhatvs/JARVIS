@@ -1,4 +1,6 @@
-venv/
-__pycache__/
-*.pyc
-.env
+models/
+.venv/
+.vscode/
+download_llama.py
+download_llama3.py
+reflection.py
